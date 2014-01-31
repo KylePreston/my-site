@@ -1,3 +1,1 @@
-These are the files for my own personal website http://kylepreston.com. The site contain projects that I’ve 
-built, code you can use, music I’ve written that you may or may not enjoy, geeky science stuff and 
-informative (hopefully) blog entries.
+These are the files for my own personal website http://kylepreston.com. The site contain projects that I’ve built, code you can use, music I’ve written that you may or may not enjoy, geeky science stuff and informative (hopefully) blog entries.
